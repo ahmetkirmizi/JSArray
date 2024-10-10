@@ -20,7 +20,7 @@ array = new string[] { "ahmet", "mehmet" };//implicit operator
 {
     Console.WriteLine("value -> {0}", value);
 }*/
-
+  
 array.Print();
 
 
